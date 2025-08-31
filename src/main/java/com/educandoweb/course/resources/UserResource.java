@@ -1,4 +1,4 @@
-package com.cursandoweb.course.resources;
+package com.educandoweb.course.resources;
 
 import com.educandoweb.course.entities.User;
 import org.springframework.http.ResponseEntity;
