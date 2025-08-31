@@ -378,19 +378,6 @@ logging.level.org.springframework.web=DEBUG
 
 ---
 
-## 📈 Próximos Passos
-
-### 🎯 Melhorias Sugeridas
-
-- [ ] **Implementar CRUD completo** (POST, PUT, DELETE)
-- [ ] **Adicionar validações** com Bean Validation
-- [ ] **Implementar tratamento de erros** global
-- [ ] **Adicionar testes unitários** e de integração
-- [ ] **Configurar banco PostgreSQL** para produção
-- [ ] **Implementar autenticação** com Spring Security
-- [ ] **Adicionar documentação** com Swagger/OpenAPI
-- [ ] **Configurar Docker** para containerização
-
 ### 🔗 Recursos Úteis
 
 - 📖 [Documentação Spring Boot](https://spring.io/projects/spring-boot)
@@ -412,24 +399,21 @@ logging.level.org.springframework.web=DEBUG
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto trata-se de um projeto acadêmico para fins de estudo e não tem fins lucrativos.
 
 ---
 
 ## 👨‍💻 Autor
 
-**EducandoWeb**
+**Breno Soares**
 
-- 🌐 Website: [educandoweb.com](https://educandoweb.com)
-- 📧 Email: <contato@educandoweb.com>
-- 💼 LinkedIn: [linkedin.com/in/educandoweb](https://linkedin.com/in/educandoweb)
+- 📧 Email: <cssbreno@gmail.com>
+- 💼 LinkedIn: [linkedin.com/in/cssbreno](https://linkedin.com/in/cssbreno)
 
 ---
 
 <div align="center">
 
-**⭐ Se este projeto te ajudou, considere dar uma estrela! ⭐**
-
-Feito com ❤️ e ☕
+Feito com ❤️ e ☕ (enfase no café)
 
 </div>
